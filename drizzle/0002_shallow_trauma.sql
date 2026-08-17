@@ -1,0 +1,1 @@
+ALTER TABLE `published_posts` MODIFY COLUMN `originalUrl` varchar(767) NOT NULL;

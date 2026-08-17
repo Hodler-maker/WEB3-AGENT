@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1786927908871,
+      "tag": "0000_overconfident_sugar_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1786928064557,
+      "tag": "0001_legal_mariko_yashida",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1786928081936,
+      "tag": "0002_shallow_trauma",
+      "breakpoints": true
+    }
+  ]
+}
